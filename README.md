@@ -1,4 +1,4 @@
-dylanlindgren/docker-laravel-artisan
+dylanlindgren/docker-laravel-bower
 ====================
 This is a [Docker](http://www.docker.com) image for [Bower](http://bower.io), intended for use in the fashion described on my series of blog articles about using Docker and the [Laravel PHP framework](http://www.laravel.com) together:
 
