@@ -1,5 +1,3 @@
-dylanlindgren/docker-laravel-bower
-====================
 ![Docker + Laravel](https://cloud.githubusercontent.com/assets/6241518/4891716/11414636-63ab-11e4-9fea-ffab30fb5ddb.jpg)
 
 This is a [Docker](http://www.docker.com) image for [Bower](http://bower.io), intended for use in the fashion described on my series of blog articles about using Docker and the [Laravel PHP framework](http://www.laravel.com) together:
